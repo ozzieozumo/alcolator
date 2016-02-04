@@ -73,6 +73,7 @@
                         <outlet property="beerCountSlider" destination="A70-IB-QgO" id="W2v-Wq-FyI"/>
                         <outlet property="beerPercentTextField" destination="nEg-my-ep2" id="Ft1-s9-Wh2"/>
                         <outlet property="resultLabel" destination="x7x-Zt-ltn" id="TsJ-0l-V2Q"/>
+                        <outlet property="wineNavBar" destination="EKc-xu-AXB" id="U6g-QQ-d9g"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
