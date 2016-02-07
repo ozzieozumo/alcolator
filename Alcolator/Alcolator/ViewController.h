@@ -16,5 +16,9 @@
 
 - (void) buttonPressed:(UIButton *)sender;
 
+
+// calculate the equivalent drinks and update display, return the int number of drinks 
+- (int) calculateAndDisplay;
+
 @end
 
